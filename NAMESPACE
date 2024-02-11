@@ -2,5 +2,12 @@
 
 export("%keepnull%")
 export("%||%")
+export("%~%")
+export(factor_number)
+export(fct2num)
+export(in_near)
 export(non_null)
+export(pair_near)
+export(replace_all_na)
+export(round_list)
 export(small)
